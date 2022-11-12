@@ -5,4 +5,4 @@ It uses REST APIs created with Express.js to fetch Notes data from MongoDB with 
 <br />
 <b> Authorization </b> is taken into account where user is given limited priveleges. Only the user who has made the particular note can view, edit and delete it. <br/>
 <br />
-<b> Authentication </b> is also taken into account where user can add Notes only if the user if logged in. Json Web Tokens (JWT) are used for Authentication services.
+<b> Authentication </b> is also taken into account where user can add Notes only if the user is logged in. Json Web Tokens (JWT) are used for Authentication services.
